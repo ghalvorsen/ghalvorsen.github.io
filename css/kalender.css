@@ -1,0 +1,58 @@
+.pal-cal     {
+	       width: 75%;              /* width of calendar on page */
+	       margin-left: 0px;       /* center calendar */
+               margin-right: auto;
+	       margin-bottom: 15px;     /* space below each calendar */
+	       border: 2px solid black;  /* border around each calendar */
+             }
+
+
+/* formatting for the "Monday", "Tuesday", ... labels */
+.pal-dayname {
+                background-color: black;
+	        color: white;            /* font color */
+		width: 10%;              /* sets minimum width of columns in calendar */
+             }
+
+
+/* month name (on left side of calendar) */
+.pal-month   {
+               background-color: #cccccc;
+	       font-weight: bold;
+	       font-size: 150%;
+             }
+
+
+/* Formatting for individual days. If you wish, you can define these seperately*/
+.pal-today, .pal-mon, .pal-tue, .pal-wed, .pal-thu, .pal-fri, .pal-sat, .pal-sun
+             {
+	       background-color: white;
+               border: 1px solid black;
+	       height: 100px;            /* minimum height of rows in calendar */
+             }
+
+
+/* additional formatting for Saturday and Sunday */
+.pal-sat, .pal-sun
+             {
+               background-color: #eeeeee;
+             }
+
+
+
+/* additional formatting for the current day
+.pal-today   {
+	       border: 3px solid darkred;
+	       background-color: #cccccc;
+ 	     }
+*/
+
+
+
+/* formatting of blank days at beginning and end of calendar */
+.pal-blank   { background-color: white;
+               border: 1px solid lightgray;
+             }
+
+
+
