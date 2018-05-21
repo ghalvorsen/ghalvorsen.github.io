@@ -13,7 +13,8 @@ a:hover {color: lightblue; }
 
 p.italic {
 	font-size: 16px; 
-	font-style: italic; 
+	font-style: italic;
+	margin: 0px; 
 	padding-top: 0px;
 	}
 
@@ -28,7 +29,7 @@ p.italic {
 .entry h2 { margin: 5px auto 2px auto; }
 .entry p  { font-family: Courier New; font-size: 14px; }
 
-h1 { margin: 0px; padding: 5px; }
+h1 { margin: 0px; padding: 0px; }
 h2 { margin: 0px; }
 
 footer strong { font-weight: bold; }
