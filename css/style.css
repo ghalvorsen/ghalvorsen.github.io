@@ -5,7 +5,7 @@ html {
 	margin-top: 30px;
 	color: #333;
 	padding-bottom: 200px;
-	/*background: linear-gradient(to bottom, lightblue,white,white,pink) no-repeat fixed;*/
+	/* background: linear-gradient(to bottom, lightblue,white,white,pink) no-repeat fixed; */
 	 }
 
 a {color: royalblue; }
@@ -23,5 +23,8 @@ a:hover {color: lightblue; }
 .entry p  { font-family: Courier New; font-size: 14px; }
 
 h2 { margin: 0px; }
+
+img.header { margin-left: 1000px; }
+
 
 footer strong { font-weight: bold; }
