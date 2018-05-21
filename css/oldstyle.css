@@ -1,0 +1,9 @@
+body         {margin-left: 60px; margin-top: 30px;}
+p            {font: 14px Helvetica; width: 400px; padding-top: 10px;}
+p.italic     {font: 14px Helvetica; width: 400px; font-style: italic; padding-top: 0px;}
+li           {font: 14px Helvetica; width: 400px;}
+h1           {font: 24px Helvetica; width: 400px; font-weight: bold;}
+h2           {font: 18px Helvetica; width: 400px; font-weight: bold; padding-top: 40px;}
+a            {font: 14px Helvetica;}
+img          {width: 400px; padding-top: 10px;}
+img.banner   {height: 100px;}
