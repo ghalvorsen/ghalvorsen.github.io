@@ -2,7 +2,7 @@
 
 # Set your personal data here:
 rssfile="rss.xml"
-blogfile="2018.html"
+blogfile="index.html"
 website="https://ghalvorsen.github.io/"
 stylesheet="..\/style.css" # Characters should be escaped for this variable.
 author="<a href=\"$website\">Gunnar K. Halvorsen<\/a>"
