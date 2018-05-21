@@ -14,7 +14,7 @@ a:hover {color: lightblue; }
 p.italic {
 	font-size: 16px; 
 	font-style: italic;
-	margin: 0px; 
+	margin-top: 0px; 
 	padding-top: 0px;
 	}
 
