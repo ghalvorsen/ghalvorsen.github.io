@@ -20,6 +20,7 @@ a:hover {color: lightblue; }
 	}
 
 .entry h2 { margin: 5px auto 2px auto; }
+.entry p { font-family: Courier; }
 
 h2 { margin: 0px; }
 
