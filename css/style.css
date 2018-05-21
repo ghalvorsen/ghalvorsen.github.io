@@ -24,7 +24,10 @@ a:hover {color: lightblue; }
 
 h2 { margin: 0px; }
 
-img.header { margin-left: 922px; }
+img.header { 
+	margin-left: 922px; 
+	margin-top: 10px;
+	}
 
 
 footer strong { font-weight: bold; }
