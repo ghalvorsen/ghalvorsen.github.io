@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+<title>Your RSS Feed Title</title>
+<description>A brief description of your RSS feed.</description>
+<language>en-us</language>
+<link>http://yourwebsite.com/rss.xml</link>
+<atom:link href="http://yourwebsite.com/rss.xml" rel="self" type="application/rss+xml" />
+
+<!-- LB -->
+
+<item>
+<title>Tou Pilsner VI</title>
+<guid>https://ghalvorsen.github.io/2018.html#tou-pilsner-vi</guid>
+<pubDate>Mon, 21 May 2018 18:04:29 +0200</pubDate>
+<description><![CDATA[
+<h2 id='tou-pilsner-vi'>Tou Pilsner VI</h2>
+<small>[<a href="2018.html#tou-pilsner-vi">link</a>&mdash;<a href="blog/tou-pilsner-vi.html">standalone</a>]</small>
+
+<++>
+]]></description>
+</item>
+
+
+
+
+
+
+</channel>
+</rss>
+
