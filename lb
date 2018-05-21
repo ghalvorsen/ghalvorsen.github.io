@@ -33,7 +33,7 @@ getTitle() { \
 
 postNew() { \
 	mkdir -p $dir/blog/.drafts
-	echo -e "<h2 id='$url'>$title</h2>\n<small>[<a href=\"$blogfile#$url\">link</a>&mdash;<a href=\"blog/$url.html\">standalone</a>]</small>\n\n<++>" >> $dir/blog/.drafts/$url.html && $EDITOR $dir/blog/.drafts/$url.html ;}
+	echo -e "<h2 id='$url'>$title</h2>\n<small>[<a href=\"$blogfile#$url\">link</a>&mdash;<a href=\"blog/$url.html\">standalone</a>]</small>\n\n<++>" >> $dir/blog/.drafts/$url.html && vim $dir/blog/.drafts/$url.html ;}
 
 finalize() { \
 	listandReturn $dir/blog/.drafts finalize
