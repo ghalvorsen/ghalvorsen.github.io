@@ -10,7 +10,12 @@ html {
 
 a {color: royalblue; }
 a:hover {color: lightblue; }
-p.italic {font: 14px Helvetica; width: 400px; font-style: italic; padding-top: 0px;}
+
+p.italic {
+	font-size: 16px; 
+	font-style: italic; 
+	padding-top: 0px;
+	}
 
 .entry {
 	border-left: 10px solid darkslategray;
