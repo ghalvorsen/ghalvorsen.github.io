@@ -3,11 +3,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
-<title>Your RSS Feed Title</title>
-<description>A brief description of your RSS feed.</description>
+<title>Øl-laben på Ganddal</title>
+<description>Bryggelogg og diverse.</description>
 <language>en-us</language>
-<link>http://yourwebsite.com/rss.xml</link>
-<atom:link href="http://yourwebsite.com/rss.xml" rel="self" type="application/rss+xml" />
+<link>http://ghalvorsen.github.io/rss.xml</link>
+<atom:link href="http://ghalvorsen.github.io/rss.xml" rel="self" type="application/rss+xml" />
 
 <!-- LB -->
 
@@ -19,10 +19,7 @@
 <h2 id='tou-pilsner-vi'>Tou Pilsner VI</h2>
 <small>[<a href="index.html#tou-pilsner-vi">link</a>&mdash;<a href="blog/tou-pilsner-vi.html">standalone</a>]</small>
 
-Dette er en test. Blablabla. Dette er en test
-
-
-<++>
+<p>Mer utfyllende info kommer.</p>
 ]]></description>
 </item>
 
