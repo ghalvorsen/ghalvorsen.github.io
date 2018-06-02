@@ -31,6 +31,7 @@ p.italic {
 	font-family: 'Cutive Mono', 'Courier New', Courier, monospace;
 	font-size: 20px; 
 	}
+.entry small { font-family:'Courier New', Courier, monospace; }
 
 h1 { margin: 0px; padding: 0px; }
 h2 { margin: 0px; }
