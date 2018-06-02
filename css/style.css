@@ -23,18 +23,21 @@ p.italic {
 	padding: 0px 10px 0px 10px;
 	border-radius: 0 30px 30px 0;
 	margin-bottom: 20px;
-	background-color: #eee;
+	background-color: #FAEBD7
 	}
 
 .entry h2 { 
 	margin: 5px auto 2px auto; 
+	padding-top: 10px;
 	font-family: 'Cutive Mono', 'Courier New', Courier, monospace;
 	}
 .entry p  { 
 	font-family: 'Cutive Mono', 'Courier New', Courier, monospace;
 	font-size: 20px; 
 	}
-.entry small { font-family:'Courier New', Courier, monospace; }
+.entry small { 
+	font-family:'Courier New', Courier, monospace; 
+	}
 
 h1 { margin: 0px; padding: 0px; }
 h2 { margin: 0px; }
