@@ -26,7 +26,10 @@ p.italic {
 	background-color: #eee;
 	}
 
-.entry h2 { margin: 5px auto 2px auto; }
+.entry h2 { 
+	margin: 5px auto 2px auto; 
+	font-family: 'Cutive Mono', 'Courier New', Courier, monospace;
+	}
 .entry p  { 
 	font-family: 'Cutive Mono', 'Courier New', Courier, monospace;
 	font-size: 20px; 
