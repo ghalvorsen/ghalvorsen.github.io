@@ -8,8 +8,8 @@ html {
 	/* background: linear-gradient(to bottom, lightblue,white,white,pink) no-repeat fixed; */
 	}
 
-a {color: royalblue; }
-a:hover {color: lightblue; }
+a {color: black; }
+a:hover {color: royalblue; }
 
 p.italic {
 	font-size: 16px; 
@@ -23,7 +23,7 @@ p.italic {
 	padding: 0px 10px 0px 10px;
 	border-radius: 0 30px 30px 0;
 	margin-bottom: 20px;
-	background-color: #FAEBD7
+	background-color: #E6E6FA
 	}
 
 .entry h2 { 
