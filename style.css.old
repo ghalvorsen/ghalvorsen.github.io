@@ -1,0 +1,16 @@
+html {
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	padding-bottom: 200px;
+	 }
+
+p            {font: 18px Helvetica; padding-top: 10px;}
+p.italic     {font: 18px Helvetica; font-style: italic;}
+a            {font: 18px Helvetica; padding-top: 10px;}
+li           {font: 18px Helvetica;}
+h1           {font: 38px Helvetica; font-weight: bold;}
+h2           {font: 34px Helvetica; font-weight: bold; padding-bottom: 0px;}
+h3           {font: 28px Helvetica; font-weight: bold; padding-bottom: 0px;}
+img          {padding-top: 10px; width: 500px;}

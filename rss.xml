@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+<title>Kontrær Liste</title>
+<description>Nyhetsbulletin fra Studentparlamentet</description>
+<language>no</language>
+<link>http://uisvalg.no/rss.xml</link>
+<atom:link href="http://uisvalg.no/rss.xml" rel="self" type="application/rss+xml" />
+
+<!-- LB -->
+
+<item>
+<title>Om å utfordre det velkjente</title>
+<guid>https://lukesmith.xyz/2020.html#om-a-utfordre-det-velkjente</guid>
+<pubDate>Sun, 01 Nov 2020 01:18:01 +0100</pubDate>
+<description><![CDATA[
+Det pågår for tiden et studentvalg ved UiS, og som et tiltak for å øke
+valgoppslutningen ble det i år besluttet at de ulike listene skulle markedsføres
+via UiS' egen instagramkonto. Av de seks listene som stiller til valg ble det
+tirsdag kveld besluttet at tilbudet ikke skulle gjelde Kontrær Liste, som dermed
+opplevde å bli sensurert uten at noen videre begrunnelse ble gitt. Bildet brøt
+ikke med noen av de avtalte retningslinjene, og vi stiller derfor spørsmål med
+hvorfor universitetet deltar i aktiviteter som vil påvirke resultatet i et
+demokratisk valg.
+
+Det har ikke lyktes oss å få klarhet i akkurat hva det er som universitetet ikke
+vil vedkjenne seg. Om det, mon tro, er studentdemokratiet som ikke er striglet
+nok. Men så lenge praksisen vedvarer er det vår klare anbefaling at flosklene om
+"skamløst engasjement" og å "utfordre det velkjente" tones ned i universitetets
+kommunikasjon.
+
+- Gunnar K. Halvorsen
+Listeleder og matematikkstudent ved UiS
+]]></description>
+</item>
+
+
+</channel>
+</rss>
