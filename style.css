@@ -1,5 +1,5 @@
 html {
-	max-width: 1050px;
+	max-width: 600px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 30px;
@@ -7,8 +7,10 @@ html {
 	padding-bottom: 200px;
 	 }
 
-a {color: royalblue; }
-a:hover {color: lightblue; }
+p            	{font: 18px Helvetica; padding-top: 10px;}
+p.italic     	{font: 18px Helvetica; font-style: italic;}
+a 		{color: royalblue; }
+a:hover		{color: lightblue; }
 
 .entry {
 	border-left: 10px solid darkslategray;
